@@ -15,7 +15,7 @@ vacc="COVISHIELD"
 
 # Pincodes list 
 pincodes=['686575','686540']
-FromEmail="roshnicherian466@gmail.com"    # From Email ID inside double quote
+FromEmail=""    # From Email ID inside double quote
 FromEmailPass=""         # From Email ID password inside double quote
 ToEmail="roshnicherian551@gmail.com"  # To Email ID inside double quote
 
